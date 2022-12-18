@@ -1,0 +1,26 @@
+{
+  "name": "Node.js-API-REST-con-Express.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuwarNewmann/Node.js-API-REST-con-Express.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuwarNewmann/Node.js-API-REST-con-Express.js/issues"
+  },
+  "homepage": "https://github.com/stuwarNewmann/Node.js-API-REST-con-Express.js#readme",
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "nodemon": "^2.0.20"
+  }
+}
